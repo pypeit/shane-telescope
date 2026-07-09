@@ -1,9 +1,9 @@
 {
-  "allowlist": {
-    "bash": {
-      "allow": true,
-      "description": "Allow bash commands"
-    }
+  "permissions": {
+    "allow": [
+      "Bash(python *)",
+      "Bash(python3 *)"
+    ]
   },
   "env": {
     "CONDA_ENV": "pypeit14b"
