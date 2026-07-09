@@ -1,0 +1,11 @@
+{
+  "allowlist": {
+    "bash": {
+      "allow": true,
+      "description": "Allow bash commands"
+    }
+  },
+  "env": {
+    "CONDA_ENV": "pypeit14b"
+  }
+}
