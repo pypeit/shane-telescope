@@ -1,0 +1,163 @@
+                                                                                                       text                                                                                                       
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Gr: gr6 300/7500, gr1 600/5000, gMirror; Dich:  mirror,  d57; polarWheel.; BlueX 7.6 mm
+ Gr: gr4 1200/5000, gr2 600/7500, gr3 830/8460; Dich:  d57,  d46; polarWheel.
+ Gr: gr2 600/7500; Dich:  d57; polarWheel.; BlueX 8.06 mm
+ Gr: gr6 300/7500, gr4 1200/5000, gr2 600/7500; Dich:  d57; polarWheel.; BlueX 9.45mm
+ Gr: gr6 300/7500, gr4 1200/5000, gr1 600/5000, gMirror; Dich:  d55; polarWheel.; BlueX 9.6mm
+ Gr: gr6 300/7500; polarWheel.; None requested
+ Gr: gr4 1200/5000, gr3 830/8460; Dich:  d46,  d55; User filter wheel.; RedX 10 RedY 10 BlueX 10 BlueY 10
+ Gr: gr6 300/7500, gr4 1200/5000, gr1 600/5000; Dich:  d57; polarWheel.; BlueX 15.65
+ Gr: gr4 1200/5000, gr3 830/8460; Dich:  d46,  d55; User filter wheel.; RedX 10 RedY 10 BlueX 10 BlueY 10
+ Gr: gr2 600/7500, gMirror; Dich:  mirror,  d55; polarWheel.; BlueX +9.6mm
+ Gr: gr4 1200/5000; Dich:  d57; polarWheel.
+ Gr: gr6 300/7500, gr1 600/5000, gMirror; Dich:  mirror,  d57; polarWheel.; BlueX 7.6mm
+ Gr: gr6 300/7500, gr2 600/7500, gr3 830/8460; Dich:  mirror,  d57; polarWheel.; BlueX 11.0
+ IGNORE: Gr: gr4 1200/5000, gr3 830/8460, gr1 600/5000; Dich:  d46; polarWheel.
+ ADD: Blue X = 15.65 mm (Updated 2024-04-18).
+ ADD: Blue x-stage = 8.09mm (updated 2024-04-27)
+ ADD: blue x-stage=7.6mm
+ ADD: Blue X = 8.30mm (updated 2024-05-29)
+ Gr: gr6 300/7500, gr4 1200/5000, gr2 600/7500; Dich:  d57,  d46; polarWheel.; BlueX 6.95
+ Gr: gr6 300/7500, gr4 1200/5000, gr2 600/7500; Dich:  d57; polarWheel.; BlueX 9.45
+ Gr: gr6 300/7500, gr4 1200/5000, gMirror; Dich:  d57; polarWheel.
+ Gr: gr6 300/7500, gr1 600/5000, gMirror; Dich:  mirror,  d57; polarWheel.; BlueX 7.6 mm
+ Gr: gr6 300/7500, gr4 1200/5000, gr2 600/7500; Dich:  d57; polarWheel.; BlueX 9.45mm
+ Gr: gr6 300/7500, gr5 300/4320; Dich:  d57; polarWheel.; BlueX 7.6; Natasha Abrams participated in the Fall 2023 Popper Workshop at Lick and so has been checked out on the site, but not on Shane specifically.
+ Gr: gr4 1200/5000, gr2 600/7500, gr3 830/8460; Dich:  d57,  d46; polarWheel.
+ Gr: gr6 300/7500, gr4 1200/5000, gr1 600/5000; Dich:  d57; polarWheel.; BlueX 15.65
+ Gr: gr2 600/7500; Dich:  d46; polarWheel.
+ Gr: gr6 300/7500, gr4 1200/5000, gr1 600/5000, gMirror; Dich:  d55; polarWheel.; BlueX 11.31
+ Gr: gr4 1200/5000; Dich:  d57; polarWheel.
+ Gr: gr4 1200/5000, gr2 600/7500, gr3 830/8460; Dich:  d57; polarWheel.
+ Gr: gr2 600/7500; Dich:  d57; polarWheel.; BlueX 8.06 mm
+ Gr: gr2 600/7500; Dich:  d57; User filter wheel.; BlueX 11.0
+ Gr: gr2 600/7500; Dich:  d55; polarWheel.
+ Gr: gr6 300/7500, gr4 1200/5000, gr2 600/7500; Dich:  mirror,  d57; polarWheel.; BlueX 11.0
+ Gr: gr6 300/7500, gr4 1200/5000, gr2 600/7500; Dich:  d57,  d46; polarWheel.; BlueX 6.95
+ Gr: gr2 600/7500; Dich:  mirror,  d57; polarWheel.; BlueX 7.0mm
+ Gr: gr4 1200/5000, gr3 830/8460; Dich:  mirror,  d57; polarWheel.; BlueX 7.55
+ ADD: Blue x-stage 6.7mm
+ ADD: Gr: gr2 600/7500; Dich: d57. BlueX = 11.0 mm (Updated: 2023-08-14).
+ ADD: Gr: gr4 1200/5000, gr3 830/8460, g66 300/7500; Dich d46, d57; user filter wheel
+ ADD: Gr: gr2 600/7500; Dich: d57; Blue X=11.0mm (Updated:2023-08-21).
+ ADD: Blue X = 16.9mm
+ ADD: Blue X-stage=8.28mm
+ Gr: gr6 300/7500, gr4 1200/5000, gr2 600/7500; Dich:  d57,  d46; polarWheel.; BlueX 6.95
+ Gr: gr6 300/7500, gr2 600/7500, gr1 600/5000; Dich:  d57; polarWheel.
+ Gr: gr6 300/7500, gr4 1200/5000, gr2 600/7500; Dich:  d57; polarWheel.; BlueX 9.45mm
+ Gr: gr2 600/7500; Dich:  d57; polarWheel.; BlueX 8.06 mm
+ Gr: gr2 600/7500, gMirror; Dich:  mirror,  d55; polarWheel.; BlueX +9.6mm
+ Gr: gr6 300/7500, gr1 600/5000, gMirror; Dich:  mirror,  d57; polarWheel.; BlueX 7.6 mm
+ Gr: gr6 300/7500, gr4 1200/5000, gr1 600/5000, gMirror; Dich:  d55; polarWheel.; BlueX 11.31
+ Gr: gr6 300/7500, gr4 1200/5000, gr2 600/7500; Dich:  mirror,  d57; polarWheel.; BlueX 11.0
+ Gr: gr6 300/7500, gr4 1200/5000, gr1 600/5000; Dich:  d57; polarWheel.; BlueX 15.65
+ Gr: gr6 300/7500, gr2 600/7500; Dich:  d57,  d46; polarWheel.; BlueX 6.85
+ Gr: gr4 1200/5000, gr3 830/8460; Dich:  mirror,  d57; polarWheel.; BlueX 7.55
+ Gr: gr6 300/7500, gr4 1200/5000, gr3 830/8460; Dich:  d57,  d46; User filter wheel.; BlueX 6.7
+ Gr: gr6 300/7500, gr4 1200/5000, gr2 600/7500; Dich:  d57; polarWheel.; BlueX 9.45mm
+ Gr: gr4 1200/5000, gr2 600/7500, gr3 830/8460; Dich:  d57,  d55; polarWheel.
+ Gr: gr2 600/7500; Dich:  d55; polarWheel.
+ Gr: gr4 1200/5000, gr2 600/7500, gr1 600/5000; Dich:  d57,  d46; polarWheel.; BlueX 7.0mm; Note that because we are requesting time on both the Nickel and \r                                                   +
+ Shane telescopes (separate proposals) we will need extra support \r                                                                                                                                             +
+ from the SAs to demonstrate both telescopes on the same night.
+ ADD: Gr: gr6 300/7500, gr4 1200/5000, gr1 600/5000
+ Gr: gr4 1200/5000, gr2 600/7500, gr1 600/5000; Dich:  d57,  d46; polarWheel.; BlueX 7.0mm
+ ADD: Gr: gr4 1200/5000, gr6 300/7500, gmirror (Updated 2024-02-04)
+ ADD: Gr: gr2 600/7500; Dich:  d57; polarWheel.; BlueX 8.28 mm (updated 2024-02-08)
+ ADD: Gr: gr6 300/7500, gr4 1200/5000, gr1 600/5000; Dich:  d55; polarWheel.; BlueX 9.6mm
+ Gr: gr4 1200/5000, gr3 830/8460; Dich:  mirror,  d57; polarWheel.; BlueX 7.55
+ ADD: blue x-stage 8.1mm
+ ADD: Blue X = 15.65mm (Updated 08/07/2024)
+ ADD: BlueX: 10.4 (updated 2024-08-10).
+ ADD: Gr: gr2 600/7500; Dich:  d55; polarWheel (updated: 2024-08-11).
+ ADD: BlueX: 10.4 mm (updated: 2024-08-11).
+ ADD: Blue X = 16.9mm (Updated 2024-08-28)
+ ADD: BlueX 8.12mm (Updated 09-04-2024)
+ Gr: gr2 600/7500, gr6 300/7500; Dich:  d46,  d57; polarWheel.; BlueX 6.85
+ Gr: gr2 600/7500; Dich:  d57; polarWheel.
+ ADD: Blue X: 11.6 mm (Updated: 2025-02-03). 
+ ADD: BlueX 7.82mm (updated 2025-02-07)
+ Gr: gr5 300/4320, gr6 300/7500; Dich:  d57; polarWheel.; BlueX 7.6
+ Gr: gr3 830/8460, gr4 1200/5000, gMirror; Dich:  d55,  d57; User filter wheel.; BlueX 7.0 mm
+ ADD: Update (2025-02-22): Gr: gr4 1200/5000, gr6 300/7500, gMirror; Dich: d55; polarWheel.; BlueX 11.31.
+ Gr: gr2 600/7500; Dich:  mirror; polarWheel.
+ Gr: gr2 600/7500; Dich:  d57; polarWheel.; BlueX 8.06 mm
+ Gr: gr2 600/7500, gr4 1200/5000; Dich:  d57,  mirror; polarWheel.; BlueX 11.0
+ Gr: gr1 600/5000, gr2 600/7500, gr4 1200/5000; Dich:  d46,  d57; polarWheel.; BlueX 7.0mm
+ Gr: gr2 600/7500, gr4 1200/5000, gr6 300/7500; Dich:  d57; polarWheel.; BlueX 9.45mm
+ Gr: gr4 1200/5000, gr6 300/7500, gMirror; Dich:  d57; polarWheel.; BlueX 15.65mm
+ Gr: gr1 600/5000, gr6 300/7500, gMirror; Dich:  d57,  mirror; polarWheel.; BlueX 7.6 mm
+ Gr: gr1 600/5000, gr4 1200/5000, gr6 300/7500, gMirror; Dich:  d55; polarWheel.; BlueX 11.31
+ Gr: gr1 600/5000, gr4 1200/5000, gr6 300/7500; Dich:  d57; polarWheel.; BlueX 15.65
+ Gr: gr2 600/7500; Dich:  d57; polarWheel.; BlueX 7.52 mm
+ Gr: gr2 600/7500, gr4 1200/5000, gr6 300/7500; Dich:  d57; polarWheel.; BlueX 9.45mm
+ Gr: gr2 600/7500; Dich:  d57; polarWheel.; RedX 0 RedY 0 BlueX 8.01mm BlueY 0
+ Gr: gr1 600/5000, gr4 1200/5000, gr6 300/7500; Dich:  d57; polarWheel.; BlueX 15.65
+ Gr: gr1 600/5000, gr6 300/7500, gMirror; Dich:  d57,  mirror; polarWheel.; BlueX 7.6 mm
+ Gr: gr2 600/7500, gr4 1200/5000; Dich:  d57,  mirror; polarWheel.; BlueX 10.8
+ Gr: gr2 600/7500; Dich:  d55; polarWheel.
+ Gr: gr1 600/5000, gr2 600/7500; Dich:  d55,  d57; polarWheel.
+ ADD: Blue X: 7.6 mm (Updated: 2026-02-12).
+ Gr: gr2 600/7500; Dich:  d57; polarWheel.; BlueX 7.52 mm
+ Gr: gr2 600/7500, gr6 300/7500; Dich:  d57; polarWheel.; BlueX 9.45mm
+ Gr: gr2 600/7500, gr4 1200/5000, gr6 300/7500; Dich:  d46,  d57; polarWheel.; BlueX 6.25
+ ADD: BlueX 8.04mm (Updated 11-01-2024)
+ Gr: gr2 600/7500; Dich:  d55; polarWheel.; BlueX +9.6mm
+ Gr: gr2 600/7500; Dich:  d55; polarWheel.
+ ADD: Update:  BlueX 9.23mm
+ ADD: Blue X 8.1mm (2025-05-24)
+ Gr: gr1 600/5000, gr6 300/7500, gMirror; Dich:  d57,  mirror; polarWheel.; BlueX 7.6mm
+ Gr: gr4 1200/5000; Dich:  d57; polarWheel.
+ ADD: Blue X-stage = 9.58mm
+ ADD: Blue X = 9.45 mm [2025-10-25].
+ ADD: Blue x-stage=9.45mm
+ Gr: gr2 600/7500; Dich:  d55; polarWheel.
+ ADD: Blue x-stage=7.52mm [Updated: 2026-01-18].
+ ADD: Blue x-stage = 9.45 mm
+ Gr: gr2 600/7500; Dich:  d57; polarWheel.; RedX 0 RedY 0 BlueX 8.01mm BlueY 0
+ Gr: gr2 600/7500, gr4 1200/5000, gr6 300/7500, gMirror; Dich:  d55; polarWheel.; BlueX 9.6
+ Gr: gr1 600/5000, gr6 300/7500, gMirror; Dich:  d57,  mirror; polarWheel.; BlueX 7.6 mm
+ Dich:  d46,  mirror; polarWheel.; Twilight observations
+ Gr: gr2 600/7500, gr4 1200/5000, gr6 300/7500; Dich:  d57; polarWheel.; BlueX 9.45mm
+ Gr: gr1 600/5000, gr4 1200/5000, gr6 300/7500; Dich:  d57; polarWheel.; BlueX 15.65
+ Gr: gr2 600/7500; Dich:  d57; polarWheel.; BlueX 7.52
+ ADD: Gr: gr2 600/7500; Dich: d57; polarWheel. BlueX = 7.52mm [Updated: 2026-06-23].
+ ADD: Gr: gr2 600/7500, gr6 300/7500, gMirror; Dich:  d57; polarWheel.; BlueX 15.65mm [Updated: 2026-07-30]
+ ADD: blue x-stage = 15.65 mm
+ Gr: gr2 600/7500, gr4 1200/5000, gr6 300/7500; Dich:  d46,  d57; polarWheel.; BlueX 6.95
+ Gr: gr1 600/5000, gr6 300/7500, gMirror; Dich:  d57,  mirror; polarWheel.; BlueX 7.6 mm
+ Gr: gr1 600/5000, gr4 1200/5000, gr6 300/7500, gMirror; Dich:  d55; polarWheel.; BlueX 11.31
+ ADD: Update: Gr: gr6 300/7500, gr4 1200/5000, gr1 600/5000; Dich:  d55; polarWheel.; BlueX 11.31
+ Gr: gr2 600/7500, gr4 1200/5000, gr6 300/7500; Dich:  d46,  d57; polarWheel.; BlueX 6.95
+ ADD: Blue x-stage = 12.0 mm [Updated 2025-06-28].
+ Gr: gr2 600/7500, gr6 300/7500; Dich:  d57; polarWheel.
+ ADD: Blue X-stage = 7.52 mm
+ ADD: gratings: gr1 600/5000, gr4 1200/5000, gr6 300/75000  (no gMirror) 
+ Gr: gr2 600/7500, gr4 1200/5000, gr6 300/7500; Dich:  d46,  d57; polarWheel.; BlueX 6.95
+ ADD: Dichr: d57
+ Gr: gr2 600/7500, gr6 300/7500; Dich:  d46,  d57; polarWheel.; BlueX 6.95
+ Gr: gr4 1200/5000, gr6 300/7500, gMirror; Dich:  d57; polarWheel.; BlueX 15.65mm
+ Gr: gr1 600/5000, gr4 1200/5000, gr6 300/7500, gMirror; Dich:  d55; polarWheel.; BlueX 9.6
+ ; polarWheel.; KAST is best for any on sky testing that needs to be done (tracking, guiding, etc)
+ Gr: gr5 300/4320, gr6 300/7500; Dich:  d57; polarWheel.; BlueX 9.23
+ ADD: blue x-stage = 8.01 mm
+ Gr: gr4 1200/5000, gr6 300/7500, gMirror; Dich:  d57; polarWheel.; BlueX 15.65mm
+ Gr: gr1 600/5000, gr2 600/7500; Dich:  d55,  d57; polarWheel.; BlueX 7.6mm
+ ADD: Dich: d57 & dmirror, BlueX: 15.65 mm [Updated: 2026-08-15]
+ Gr: gr2 600/7500; Dich:  d57; polarWheel.; BlueX 8.06 mm; none provided
+ Gr: gr4 1200/5000, gr6 300/7500, gMirror; Dich:  d57; polarWheel.; BlueX 15.65mm
+ Gr: gr2 600/7500, gr4 1200/5000, gr6 300/7500; Dich:  d57; polarWheel.; BlueX 9.45mm
+ Gr: gr3 830/8460, gr4 1200/5000; Dich:  d46; polarWheel.
+ Gr: gr1 600/5000, gr4 1200/5000, gr6 300/7500; Dich:  d57; polarWheel.; BlueX 15.65
+ Gr: gr2 600/7500, gr4 1200/5000; Dich:  d57,  mirror; polarWheel.; BlueX 11.0
+ Gr: gr2 600/7500; Dich:  d55; polarWheel.
+ Gr: gr2 600/7500; Dich:  d55; polarWheel.; BlueX 11
+ ; polarWheel.; Twilight observations
+ Gr: gr2 600/7500, gr6 300/7500; Dich:  d57; polarWheel.
+ Gr: gr2 600/7500, gr4 1200/5000; Dich:  d57,  mirror; polarWheel.; BlueX 10.8
+ Gr: gr4 1200/5000; Dich:  d57; polarWheel.
+ Gr: gr1 600/5000, gr2 600/7500, gr4 1200/5000; Dich:  d46,  d57; polarWheel.; BlueX 7.0mm
+ Gr: gr2 600/7500; Dich:  d55; polarWheel.; BlueX +9.6mm
+(157 rows)
+
